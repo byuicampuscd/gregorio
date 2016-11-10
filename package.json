@@ -1,0 +1,19 @@
+{
+  "name": "gregorio",
+  "version": "1.0.0",
+  "description": "A date-changer tool to analyze all the dates of assignments in a XML manifest file of D2L.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuicampuscd/gregorio.git"
+  },
+  "author": "Andrew Gremlich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuicampuscd/gregorio/issues"
+  },
+  "homepage": "https://github.com/byuicampuscd/gregorio#readme"
+}
