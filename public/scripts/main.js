@@ -1,8 +1,7 @@
 (function () {
 
-    var fs = require('fs')
-
-    console.log(fs)
+    var fs = require('fs'),
+        $ = require('jquery')
 
     wand("#exportpackage").tag.onchange = e => {
 
@@ -15,7 +14,16 @@
 
             fs.readFile(filepath, 'utf8', (err, data) => {
                 if (err) throw err
-                console.log(data)
+
+                var xmlData = $.parseXML(data),
+                    parseXML = xml2json(xmlData),
+                    removed = parseXML.replace("undefined", ""),
+                    jsondata = JSON.parse(removed),
+                    jsonString = JSON.stringify(jsondata),
+                    backtoXML = json2xml(jsonString)
+
+                console.log(jsonString)
+
             })
 
         }
