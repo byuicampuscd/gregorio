@@ -96,7 +96,7 @@
                 <item identifier="195272" identifierref="RES_CONTENT_195272" d2l_2p0:id="32" d2l_2p0:resource_code="byui_produ-26180" description="" completion_type="1" resource_type_key="">
                     <title>L01: Photographer's Information - Instructions</title>
                 </item>
-                <item identifier="195273" identifierref="RES_CONTENT_195273" d2l_2p0:id="33" d2l_2p0:resource_code="byui_produ-26783" description="" completion_type="1" date_end="FALSE" resource_type_key="">
+                <item identifier="195273" identifierref="RES_CONTENT_195273" d2l_2p0:id="33" d2l_2p0:resource_code="byui_produ-26783" description="" completion_type="1" date_end="2017-01-04T06:59:00" resource_type_key="">
                     <title>Photographer's Information</title>
                 </item>
                 <item identifier="195274" identifierref="RES_CONTENT_195274" d2l_2p0:id="34" d2l_2p0:resource_code="byui_produ-59880" description="" completion_type="1" resource_type_key="">
@@ -122,10 +122,10 @@
                 </item>
                 <item identifier="195282" identifierref="RES_CONTENT_195282" d2l_2p0:id="41" d2l_2p0:resource_code="byui_produ-59883" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195283" identifierref="RES_CONTENT_195283" d2l_2p0:id="42" d2l_2p0:resource_code="byui_produ-26190" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195283" identifierref="RES_CONTENT_195283" d2l_2p0:id="42" d2l_2p0:resource_code="byui_produ-26190" description="" completion_type="1" date_due="2017-01-04T06:59:00" resource_type_key="">
                         <title>L01: Photographic Ice Breaker - Instructions</title>
                     </item>
-                    <item identifier="195284" identifierref="RES_CONTENT_195284" d2l_2p0:id="43" d2l_2p0:resource_code="byui_produ-26799" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195284" identifierref="RES_CONTENT_195284" d2l_2p0:id="43" d2l_2p0:resource_code="byui_produ-26799" description="" completion_type="1" date_due="2017-01-07T15:00:00" resource_type_key="">
                         <title>Photographic Ice Breaker</title>
                     </item>
                 </item>
@@ -134,13 +134,13 @@
                     <item identifier="195286" identifierref="RES_CONTENT_195286" d2l_2p0:id="45" d2l_2p0:resource_code="byui_produ-26191" description="" completion_type="1" resource_type_key="">
                         <title>L01: Pre-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195287" identifierref="RES_CONTENT_195287" d2l_2p0:id="46" d2l_2p0:resource_code="byui_produ-59885" description="" completion_type="1" date_end="FALSE" resource_type_key="">
+                    <item identifier="195287" identifierref="RES_CONTENT_195287" d2l_2p0:id="46" d2l_2p0:resource_code="byui_produ-59885" description="" completion_type="1" date_end="2017-01-09T15:00:00" resource_type_key="">
                         <title>Pre-Assessment</title>
                     </item>
                     <item identifier="195288" identifierref="RES_CONTENT_195288" d2l_2p0:id="47" d2l_2p0:resource_code="byui_produ-26192" description="" completion_type="1" resource_type_key="">
                         <title>L01: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195289" identifierref="RES_CONTENT_195289" d2l_2p0:id="48" d2l_2p0:resource_code="byui_produ-24835" description="" completion_type="1" date_end="FALSE" resource_type_key="">
+                    <item identifier="195289" identifierref="RES_CONTENT_195289" d2l_2p0:id="48" d2l_2p0:resource_code="byui_produ-24835" description="" completion_type="1" date_end="2017-01-09T15:00:00" resource_type_key="">
                         <title>Week 01 Self-Assessment</title>
                     </item>
                 </item>
@@ -170,19 +170,19 @@
                     <item identifier="195301" identifierref="RES_CONTENT_195301" d2l_2p0:id="57" d2l_2p0:resource_code="byui_produ-26213" description="" completion_type="1" resource_type_key="">
                         <title>L02: Photo Capture 1: Using Manual Mode</title>
                     </item>
-                    <item identifier="195302" identifierref="RES_CONTENT_195302" d2l_2p0:id="58" d2l_2p0:resource_code="byui_produ-26214" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195302" identifierref="RES_CONTENT_195302" d2l_2p0:id="58" d2l_2p0:resource_code="byui_produ-26214" description="" completion_type="1" date_due="2017-01-16T15:00:00" resource_type_key="">
                         <title>L02: Peer Photo Review 1: Using Manual Mode - Instructions</title>
                     </item>
-                    <item identifier="227236" identifierref="RES_CONTENT_227236" d2l_2p0:id="59" d2l_2p0:resource_code="byui_produ-194231" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="227236" identifierref="RES_CONTENT_227236" d2l_2p0:id="59" d2l_2p0:resource_code="byui_produ-194231" description="" completion_type="2" date_due="2017-01-19T06:59:00" resource_type_key="">
                         <title>L02: Peer Photo Review 1: Using Manual Mode</title>
                     </item>
-                    <item identifier="227237" identifierref="RES_CONTENT_227237" d2l_2p0:id="60" d2l_2p0:resource_code="byui_produ-194232" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="227237" identifierref="RES_CONTENT_227237" d2l_2p0:id="60" d2l_2p0:resource_code="byui_produ-194232" description="" completion_type="2" date_due="2017-01-19T06:59:00" resource_type_key="">
                         <title>L02: Peer Photo Review 1: Using Manual Mode - Group 2</title>
                     </item>
                     <item identifier="195304" identifierref="RES_CONTENT_195304" d2l_2p0:id="61" d2l_2p0:resource_code="byui_produ-26224" description="" completion_type="1" resource_type_key="">
                         <title>L02: Photo Capture 1 Submission: Using Manual Mode - Instructions</title>
                     </item>
-                    <item identifier="195305" identifierref="RES_CONTENT_195305" d2l_2p0:id="62" d2l_2p0:resource_code="byui_produ-25557" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195305" identifierref="RES_CONTENT_195305" d2l_2p0:id="62" d2l_2p0:resource_code="byui_produ-25557" description="" completion_type="1" date_due="2017-01-20T06:59:00" resource_type_key="">
                         <title>Photo Capture 1 Submission: Using Manual Mode</title>
                     </item>
                     <item identifier="195306" identifierref="RES_CONTENT_195306" d2l_2p0:id="63" d2l_2p0:resource_code="byui_produ-59892" description="" completion_type="1" resource_type_key="">
@@ -194,12 +194,12 @@
                     <item identifier="195308" identifierref="RES_CONTENT_195308" d2l_2p0:id="65" d2l_2p0:resource_code="byui_produ-26215" description="" completion_type="1" resource_type_key="">
                         <title>L02: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195309" identifierref="RES_CONTENT_195309" d2l_2p0:id="66" d2l_2p0:resource_code="byui_produ-24841" description="" completion_type="1" date_end="FALSE" resource_type_key="">
+                    <item identifier="195309" identifierref="RES_CONTENT_195309" d2l_2p0:id="66" d2l_2p0:resource_code="byui_produ-24841" description="" completion_type="1" date_end="2017-01-16T15:00:00" resource_type_key="">
                         <title>Lesson 02 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195310" identifierref="RES_CONTENT_195310" d2l_2p0:id="67" d2l_2p0:resource_code="byui_produ-59894" description="&lt;h2&gt;Adobe Lightroom&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195310" identifierref="RES_CONTENT_195310" d2l_2p0:id="67" d2l_2p0:resource_code="byui_produ-59894" description="&lt;h2&gt;Adobe Lightroom&lt;/h2&gt;" completion_type="2" date_start="2017-01-07T07:01:00">
                 <title>Lesson 03</title>
                 <item identifier="195311" identifierref="RES_CONTENT_195311" d2l_2p0:id="68" d2l_2p0:resource_code="byui_produ-59895" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -227,25 +227,25 @@
                     <item identifier="195320" identifierref="RES_CONTENT_195320" d2l_2p0:id="76" d2l_2p0:resource_code="byui_produ-26228" description="" completion_type="1" resource_type_key="">
                         <title>L03: Lightroom Catalog and Library Setup - Instructions</title>
                     </item>
-                    <item identifier="195321" identifierref="RES_CONTENT_195321" d2l_2p0:id="77" d2l_2p0:resource_code="byui_produ-59900" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195321" identifierref="RES_CONTENT_195321" d2l_2p0:id="77" d2l_2p0:resource_code="byui_produ-59900" description="" completion_type="1" date_due="2017-01-19T06:59:00" resource_type_key="">
                         <title>Lightroom Catalog and LIbrary Setup</title>
                     </item>
                     <item identifier="195322" identifierref="RES_CONTENT_195322" d2l_2p0:id="78" d2l_2p0:resource_code="byui_produ-26321" description="" completion_type="1" resource_type_key="">
                         <title>L03: Photo Capture 02: Photograph/Edit Original Imagery</title>
                     </item>
-                    <item identifier="195323" identifierref="RES_CONTENT_195323" d2l_2p0:id="79" d2l_2p0:resource_code="byui_produ-26230" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195323" identifierref="RES_CONTENT_195323" d2l_2p0:id="79" d2l_2p0:resource_code="byui_produ-26230" description="" completion_type="1" date_due="2017-01-23T15:00:00" resource_type_key="">
                         <title>L03: Peer Photo Review 02: Photography/Edit Original Imagery - Instructions</title>
                     </item>
-                    <item identifier="229098" identifierref="RES_CONTENT_229098" d2l_2p0:id="80" d2l_2p0:resource_code="byui_produ-194239" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229098" identifierref="RES_CONTENT_229098" d2l_2p0:id="80" d2l_2p0:resource_code="byui_produ-194239" description="" completion_type="2" date_due="2017-01-26T06:59:00" resource_type_key="">
                         <title>L03: Peer Photo Review 2: Photography / Edit Original Imagery - Group 1</title>
                     </item>
-                    <item identifier="229099" identifierref="RES_CONTENT_229099" d2l_2p0:id="81" d2l_2p0:resource_code="byui_produ-194240" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229099" identifierref="RES_CONTENT_229099" d2l_2p0:id="81" d2l_2p0:resource_code="byui_produ-194240" description="" completion_type="2" date_due="2017-01-26T06:59:00" resource_type_key="">
                         <title>L03: Peer Photo Review 2: Photography / Edit Original Imagery - Group 2</title>
                     </item>
                     <item identifier="195325" identifierref="RES_CONTENT_195325" d2l_2p0:id="82" d2l_2p0:resource_code="byui_produ-26229" description="" completion_type="1" resource_type_key="">
                         <title>L03: Photo Capture 2 Submission: Photography/Edit Original Imagery - Instructions</title>
                     </item>
-                    <item identifier="195326" identifierref="RES_CONTENT_195326" d2l_2p0:id="83" d2l_2p0:resource_code="byui_produ-25556" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195326" identifierref="RES_CONTENT_195326" d2l_2p0:id="83" d2l_2p0:resource_code="byui_produ-25556" description="" completion_type="1" date_due="2017-01-27T06:59:00" resource_type_key="">
                         <title>Photo Capture 2 Submission : Photography / Edit Original Imagery</title>
                     </item>
                     <item identifier="686559" identifierref="RES_CONTENT_686559" d2l_2p0:id="84" d2l_2p0:resource_code="byui_produ-312099" description="" completion_type="2" resource_type_key="">
@@ -257,12 +257,12 @@
                     <item identifier="195328" identifierref="RES_CONTENT_195328" d2l_2p0:id="86" d2l_2p0:resource_code="byui_produ-26231" description="" completion_type="1" resource_type_key="">
                         <title>L03: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195329" identifierref="RES_CONTENT_195329" d2l_2p0:id="87" d2l_2p0:resource_code="byui_produ-24843" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195329" identifierref="RES_CONTENT_195329" d2l_2p0:id="87" d2l_2p0:resource_code="byui_produ-24843" description="" completion_type="1" date_start="2017-01-07T07:01:00" date_end="2017-01-23T15:00:00" resource_type_key="">
                         <title>Lesson 03 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195330" identifierref="RES_CONTENT_195330" d2l_2p0:id="88" d2l_2p0:resource_code="byui_produ-59902" description="&lt;h2&gt;Aperture and Depth of Field&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195330" identifierref="RES_CONTENT_195330" d2l_2p0:id="88" d2l_2p0:resource_code="byui_produ-59902" description="&lt;h2&gt;Aperture and Depth of Field&lt;/h2&gt;" completion_type="2" date_start="2017-01-14T07:01:00">
                 <title>Lesson 04</title>
                 <item identifier="195331" identifierref="RES_CONTENT_195331" d2l_2p0:id="89" d2l_2p0:resource_code="byui_produ-38218" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -287,7 +287,7 @@
                 </item>
                 <item identifier="195339" identifierref="RES_CONTENT_195339" d2l_2p0:id="96" d2l_2p0:resource_code="byui_produ-59907" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195340" identifierref="RES_CONTENT_195340" d2l_2p0:id="97" d2l_2p0:resource_code="byui_produ-26235" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195340" identifierref="RES_CONTENT_195340" d2l_2p0:id="97" d2l_2p0:resource_code="byui_produ-26235" description="" completion_type="1" date_due="2017-01-30T15:00:00" resource_type_key="">
                         <title>L04: Learn from the Pros: Aperture and Depth of Field</title>
                     </item>
                     <item identifier="195341" identifierref="RES_CONTENT_195341" d2l_2p0:id="98" d2l_2p0:resource_code="byui_produ-26345" description="" completion_type="1" resource_type_key="">
@@ -296,25 +296,25 @@
                     <item identifier="195342" identifierref="RES_CONTENT_195342" d2l_2p0:id="99" d2l_2p0:resource_code="byui_produ-26236" description="" completion_type="1" resource_type_key="">
                         <title>L04: Replicate Depth of Field Photos Submission - Instructions</title>
                     </item>
-                    <item identifier="195343" identifierref="RES_CONTENT_195343" d2l_2p0:id="100" d2l_2p0:resource_code="byui_produ-25555" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195343" identifierref="RES_CONTENT_195343" d2l_2p0:id="100" d2l_2p0:resource_code="byui_produ-25555" description="" completion_type="1" date_due="2017-01-30T15:00:00" resource_type_key="">
                         <title>Photo Capture 3 Submission : Replicating Photos</title>
                     </item>
                     <item identifier="195344" identifierref="RES_CONTENT_195344" d2l_2p0:id="101" d2l_2p0:resource_code="byui_produ-26907" description="" completion_type="1" resource_type_key="">
                         <title>L04: Produce Depth of Field Photos</title>
                     </item>
-                    <item identifier="195345" identifierref="RES_CONTENT_195345" d2l_2p0:id="102" d2l_2p0:resource_code="byui_produ-26238" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195345" identifierref="RES_CONTENT_195345" d2l_2p0:id="102" d2l_2p0:resource_code="byui_produ-26238" description="" completion_type="1" date_due="2017-01-31T06:59:00" resource_type_key="">
                         <title>L04: Peer Photo Review 3 Instructions: Produce Depth of Field Photos</title>
                     </item>
-                    <item identifier="229105" identifierref="RES_CONTENT_229105" d2l_2p0:id="103" d2l_2p0:resource_code="byui_produ-194248" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229105" identifierref="RES_CONTENT_229105" d2l_2p0:id="103" d2l_2p0:resource_code="byui_produ-194248" description="" completion_type="2" date_due="2017-02-02T06:59:00" resource_type_key="">
                         <title>L04: Peer Photo Review 3: Produce Depth of Field Photos - Group 1</title>
                     </item>
-                    <item identifier="229103" identifierref="RES_CONTENT_229103" d2l_2p0:id="104" d2l_2p0:resource_code="byui_produ-194250" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229103" identifierref="RES_CONTENT_229103" d2l_2p0:id="104" d2l_2p0:resource_code="byui_produ-194250" description="" completion_type="2" date_due="2017-02-02T06:59:00" resource_type_key="">
                         <title>L04: Peer Photo Review 3: Produce Depth of Field Photos - Group 2</title>
                     </item>
                     <item identifier="195347" identifierref="RES_CONTENT_195347" d2l_2p0:id="105" d2l_2p0:resource_code="byui_produ-26237" description="" completion_type="1" resource_type_key="">
                         <title>L04: Photo Capture 3: Produce Depth of Field Photos Submission - Instructions</title>
                     </item>
-                    <item identifier="195348" identifierref="RES_CONTENT_195348" d2l_2p0:id="106" d2l_2p0:resource_code="byui_produ-25560" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195348" identifierref="RES_CONTENT_195348" d2l_2p0:id="106" d2l_2p0:resource_code="byui_produ-25560" description="" completion_type="1" date_due="2017-02-03T06:59:00" resource_type_key="">
                         <title>Photo Capture 3 Submission : Product Depth of Field </title>
                     </item>
                 </item>
@@ -323,12 +323,12 @@
                     <item identifier="195350" identifierref="RES_CONTENT_195350" d2l_2p0:id="108" d2l_2p0:resource_code="byui_produ-26239" description="" completion_type="1" resource_type_key="">
                         <title>L04: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195351" identifierref="RES_CONTENT_195351" d2l_2p0:id="109" d2l_2p0:resource_code="byui_produ-24846" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195351" identifierref="RES_CONTENT_195351" d2l_2p0:id="109" d2l_2p0:resource_code="byui_produ-24846" description="" completion_type="1" date_start="2017-01-14T07:01:00" date_end="2017-01-30T15:00:00" resource_type_key="">
                         <title>Lesson 04 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195352" identifierref="RES_CONTENT_195352" d2l_2p0:id="110" d2l_2p0:resource_code="byui_produ-59909" description="&lt;h2&gt;Shutter Speed and Use of Motion&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195352" identifierref="RES_CONTENT_195352" d2l_2p0:id="110" d2l_2p0:resource_code="byui_produ-59909" description="&lt;h2&gt;Shutter Speed and Use of Motion&lt;/h2&gt;" completion_type="2" date_start="2017-01-21T07:01:00">
                 <title>Lesson 05</title>
                 <item identifier="195353" identifierref="RES_CONTENT_195353" d2l_2p0:id="111" d2l_2p0:resource_code="byui_produ-59910" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -353,7 +353,7 @@
                 </item>
                 <item identifier="195361" identifierref="RES_CONTENT_195361" d2l_2p0:id="118" d2l_2p0:resource_code="byui_produ-59916" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195362" identifierref="RES_CONTENT_195362" d2l_2p0:id="119" d2l_2p0:resource_code="byui_produ-26242" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195362" identifierref="RES_CONTENT_195362" d2l_2p0:id="119" d2l_2p0:resource_code="byui_produ-26242" description="" completion_type="1" date_due="2017-02-06T15:00:00" resource_type_key="">
                         <title>L05: Learn from the Pros: Use of Motion</title>
                     </item>
                     <item identifier="195363" identifierref="RES_CONTENT_195363" d2l_2p0:id="120" d2l_2p0:resource_code="byui_produ-26360" description="" completion_type="1" resource_type_key="">
@@ -362,25 +362,25 @@
                     <item identifier="195364" identifierref="RES_CONTENT_195364" d2l_2p0:id="121" d2l_2p0:resource_code="byui_produ-26243" description="" completion_type="1" resource_type_key="">
                         <title>L05: Replicate Motion Photos Submission - Instructions</title>
                     </item>
-                    <item identifier="195365" identifierref="RES_CONTENT_195365" d2l_2p0:id="122" d2l_2p0:resource_code="byui_produ-25564" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195365" identifierref="RES_CONTENT_195365" d2l_2p0:id="122" d2l_2p0:resource_code="byui_produ-25564" description="" completion_type="1" date_due="2017-02-06T15:00:00" resource_type_key="">
                         <title>Replicate Motion Photos Submission</title>
                     </item>
                     <item identifier="195366" identifierref="RES_CONTENT_195366" d2l_2p0:id="123" d2l_2p0:resource_code="byui_produ-26359" description="" completion_type="1" resource_type_key="">
                         <title>L05: Photo Capture 4: Produce Motion Photos</title>
                     </item>
-                    <item identifier="195367" identifierref="RES_CONTENT_195367" d2l_2p0:id="124" d2l_2p0:resource_code="byui_produ-26245" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195367" identifierref="RES_CONTENT_195367" d2l_2p0:id="124" d2l_2p0:resource_code="byui_produ-26245" description="" completion_type="1" date_due="2017-02-07T06:59:00" resource_type_key="">
                         <title>L05: Peer Photo Review 4: Produce Motion Photos - Instructions</title>
                     </item>
-                    <item identifier="195368" identifierref="RES_CONTENT_195368" d2l_2p0:id="125" d2l_2p0:resource_code="byui_produ-25043" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195368" identifierref="RES_CONTENT_195368" d2l_2p0:id="125" d2l_2p0:resource_code="byui_produ-25043" description="" completion_type="1" date_due="2017-02-09T06:59:00" resource_type_key="">
                         <title>Peer Photo Review 4: Produce Motions Photos</title>
                     </item>
-                    <item identifier="229107" identifierref="RES_CONTENT_229107" d2l_2p0:id="126" d2l_2p0:resource_code="byui_produ-194299" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229107" identifierref="RES_CONTENT_229107" d2l_2p0:id="126" d2l_2p0:resource_code="byui_produ-194299" description="" completion_type="2" date_due="2017-02-09T06:59:00" resource_type_key="">
                         <title>L05: Peer Photo Review 4: Produce Motions Photos - Group 2</title>
                     </item>
                     <item identifier="195369" identifierref="RES_CONTENT_195369" d2l_2p0:id="127" d2l_2p0:resource_code="byui_produ-26244" description="" completion_type="1" resource_type_key="">
                         <title>L05: Photo Capture 4 Submission: Produce Motion Photos -  Instructions</title>
                     </item>
-                    <item identifier="195370" identifierref="RES_CONTENT_195370" d2l_2p0:id="128" d2l_2p0:resource_code="byui_produ-25567" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195370" identifierref="RES_CONTENT_195370" d2l_2p0:id="128" d2l_2p0:resource_code="byui_produ-25567" description="" completion_type="1" date_due="2017-02-10T06:59:00" resource_type_key="">
                         <title>Photo Capture 4 Submission: Produce Motion Photos</title>
                     </item>
                 </item>
@@ -389,12 +389,12 @@
                     <item identifier="195372" identifierref="RES_CONTENT_195372" d2l_2p0:id="130" d2l_2p0:resource_code="byui_produ-26246" description="" completion_type="1" resource_type_key="">
                         <title>L05: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195373" identifierref="RES_CONTENT_195373" d2l_2p0:id="131" d2l_2p0:resource_code="byui_produ-24850" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195373" identifierref="RES_CONTENT_195373" d2l_2p0:id="131" d2l_2p0:resource_code="byui_produ-24850" description="" completion_type="1" date_start="2017-01-21T07:01:00" date_end="2017-02-06T15:00:00" resource_type_key="">
                         <title>Lesson 05 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195374" identifierref="RES_CONTENT_195374" d2l_2p0:id="132" d2l_2p0:resource_code="byui_produ-59918" description="&lt;h2&gt;Lens Choice and Sense of Place&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195374" identifierref="RES_CONTENT_195374" d2l_2p0:id="132" d2l_2p0:resource_code="byui_produ-59918" description="&lt;h2&gt;Lens Choice and Sense of Place&lt;/h2&gt;" completion_type="2" date_start="2017-01-28T07:01:00">
                 <title>Lesson 06</title>
                 <item identifier="195375" identifierref="RES_CONTENT_195375" d2l_2p0:id="133" d2l_2p0:resource_code="byui_produ-59919" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -422,25 +422,25 @@
                 </item>
                 <item identifier="195384" identifierref="RES_CONTENT_195384" d2l_2p0:id="141" d2l_2p0:resource_code="byui_produ-59924" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195385" identifierref="RES_CONTENT_195385" d2l_2p0:id="142" d2l_2p0:resource_code="byui_produ-26251" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195385" identifierref="RES_CONTENT_195385" d2l_2p0:id="142" d2l_2p0:resource_code="byui_produ-26251" description="" completion_type="1" date_due="2017-02-13T15:00:00" resource_type_key="">
                         <title>L06: Learn From the Pros: Sense of Place</title>
                     </item>
                     <item identifier="195386" identifierref="RES_CONTENT_195386" d2l_2p0:id="143" d2l_2p0:resource_code="byui_produ-26252" description="" completion_type="1" resource_type_key="">
                         <title>L06: Photo Capture 5: Sense of Place</title>
                     </item>
-                    <item identifier="195387" identifierref="RES_CONTENT_195387" d2l_2p0:id="144" d2l_2p0:resource_code="byui_produ-26254" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195387" identifierref="RES_CONTENT_195387" d2l_2p0:id="144" d2l_2p0:resource_code="byui_produ-26254" description="" completion_type="1" date_due="2017-02-14T06:59:00" resource_type_key="">
                         <title>L06: Peer Photo Review 5: Sense of Place - Instructions</title>
                     </item>
-                    <item identifier="195388" identifierref="RES_CONTENT_195388" d2l_2p0:id="145" d2l_2p0:resource_code="byui_produ-25062" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195388" identifierref="RES_CONTENT_195388" d2l_2p0:id="145" d2l_2p0:resource_code="byui_produ-25062" description="" completion_type="1" date_due="2017-02-16T06:59:00" resource_type_key="">
                         <title>Peer Photo Review 5: Sense of Place</title>
                     </item>
-                    <item identifier="229115" identifierref="RES_CONTENT_229115" d2l_2p0:id="146" d2l_2p0:resource_code="byui_produ-194304" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229115" identifierref="RES_CONTENT_229115" d2l_2p0:id="146" d2l_2p0:resource_code="byui_produ-194304" description="" completion_type="2" date_due="2017-02-16T06:59:00" resource_type_key="">
                         <title>L06: Peer Photo Review 5: Sense of Place - Group 2</title>
                     </item>
                     <item identifier="195389" identifierref="RES_CONTENT_195389" d2l_2p0:id="147" d2l_2p0:resource_code="byui_produ-26253" description="" completion_type="1" resource_type_key="">
                         <title>L06: Photo Capture 5 Submission: Sense of Place - Instructions</title>
                     </item>
-                    <item identifier="195390" identifierref="RES_CONTENT_195390" d2l_2p0:id="148" d2l_2p0:resource_code="byui_produ-25568" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195390" identifierref="RES_CONTENT_195390" d2l_2p0:id="148" d2l_2p0:resource_code="byui_produ-25568" description="" completion_type="1" date_due="2017-02-17T06:59:00" resource_type_key="">
                         <title>Photo Capture 5 Submission: Sense of Place</title>
                     </item>
                 </item>
@@ -449,24 +449,24 @@
                     <item identifier="195392" identifierref="RES_CONTENT_195392" d2l_2p0:id="150" d2l_2p0:resource_code="byui_produ-26255" description="" completion_type="1" resource_type_key="">
                         <title>L06 Self-Assessment 01- Instructions</title>
                     </item>
-                    <item identifier="195393" identifierref="RES_CONTENT_195393" d2l_2p0:id="151" d2l_2p0:resource_code="byui_produ-24853" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195393" identifierref="RES_CONTENT_195393" d2l_2p0:id="151" d2l_2p0:resource_code="byui_produ-24853" description="" completion_type="1" date_start="2017-01-28T07:01:00" date_end="2017-02-13T15:00:00" resource_type_key="">
                         <title>Lesson 06 Self-Assessment 01</title>
                     </item>
                     <item identifier="195394" identifierref="RES_CONTENT_195394" d2l_2p0:id="152" d2l_2p0:resource_code="byui_produ-26257" description="" completion_type="1" resource_type_key="">
                         <title>L06 Self-Assessment 02 - Instructions</title>
                     </item>
-                    <item identifier="195395" identifierref="RES_CONTENT_195395" d2l_2p0:id="153" d2l_2p0:resource_code="byui_produ-24855" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195395" identifierref="RES_CONTENT_195395" d2l_2p0:id="153" d2l_2p0:resource_code="byui_produ-24855" description="" completion_type="1" date_start="2017-01-28T07:01:00" date_end="2017-02-13T15:00:00" resource_type_key="">
                         <title>Lesson 06 Self-Assessment 02</title>
                     </item>
                 </item>
                 <item identifier="195396" identifierref="RES_CONTENT_195396" d2l_2p0:id="154" d2l_2p0:resource_code="byui_produ-68071" description="" completion_type="2">
                     <title>Mid-Course Feedback</title>
-                    <item identifier="195397" identifierref="RES_CONTENT_195397" d2l_2p0:id="155" d2l_2p0:resource_code="byui_produ-26568" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195397" identifierref="RES_CONTENT_195397" d2l_2p0:id="155" d2l_2p0:resource_code="byui_produ-26568" description="" completion_type="1" date_start="2017-02-04T07:00:00" date_end="2017-02-13T15:00:00" resource_type_key="">
                         <title>Mid-Course Feedback</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195398" identifierref="RES_CONTENT_195398" d2l_2p0:id="156" d2l_2p0:resource_code="byui_produ-59926" description="&lt;h2&gt;Light and Portraiture&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195398" identifierref="RES_CONTENT_195398" d2l_2p0:id="156" d2l_2p0:resource_code="byui_produ-59926" description="&lt;h2&gt;Light and Portraiture&lt;/h2&gt;" completion_type="2" date_start="2017-02-04T07:01:00">
                 <title>Lesson 07</title>
                 <item identifier="195399" identifierref="RES_CONTENT_195399" d2l_2p0:id="157" d2l_2p0:resource_code="byui_produ-59927" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -491,25 +491,25 @@
                 </item>
                 <item identifier="195407" identifierref="RES_CONTENT_195407" d2l_2p0:id="164" d2l_2p0:resource_code="byui_produ-59932" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195408" identifierref="RES_CONTENT_195408" d2l_2p0:id="165" d2l_2p0:resource_code="byui_produ-26261" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195408" identifierref="RES_CONTENT_195408" d2l_2p0:id="165" d2l_2p0:resource_code="byui_produ-26261" description="" completion_type="1" date_due="2017-02-20T15:00:00" resource_type_key="">
                         <title>L07: Learn from the Pros: Portraits</title>
                     </item>
                     <item identifier="195409" identifierref="RES_CONTENT_195409" d2l_2p0:id="166" d2l_2p0:resource_code="byui_produ-26364" description="" completion_type="1" resource_type_key="">
                         <title>L07: Photo Capture 6: Portraits</title>
                     </item>
-                    <item identifier="195410" identifierref="RES_CONTENT_195410" d2l_2p0:id="167" d2l_2p0:resource_code="byui_produ-26263" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195410" identifierref="RES_CONTENT_195410" d2l_2p0:id="167" d2l_2p0:resource_code="byui_produ-26263" description="" completion_type="1" date_due="2017-02-21T06:59:00" resource_type_key="">
                         <title>L07: Peer Photo Review 6: Portraits - Instructions</title>
                     </item>
-                    <item identifier="195411" identifierref="RES_CONTENT_195411" d2l_2p0:id="168" d2l_2p0:resource_code="byui_produ-25079" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195411" identifierref="RES_CONTENT_195411" d2l_2p0:id="168" d2l_2p0:resource_code="byui_produ-25079" description="" completion_type="1" date_due="2017-02-23T06:59:00" resource_type_key="">
                         <title>Peer Photo Review 6: Portraits</title>
                     </item>
-                    <item identifier="229123" identifierref="RES_CONTENT_229123" d2l_2p0:id="169" d2l_2p0:resource_code="byui_produ-194404" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229123" identifierref="RES_CONTENT_229123" d2l_2p0:id="169" d2l_2p0:resource_code="byui_produ-194404" description="" completion_type="2" date_due="2017-02-23T06:59:00" resource_type_key="">
                         <title>L07: Peer Photo Review 6: Portraits - Group 2</title>
                     </item>
                     <item identifier="195412" identifierref="RES_CONTENT_195412" d2l_2p0:id="170" d2l_2p0:resource_code="byui_produ-26262" description="" completion_type="1" resource_type_key="">
                         <title>L07: Photo Capture 6 Submission: Portraits - Instructions</title>
                     </item>
-                    <item identifier="195413" identifierref="RES_CONTENT_195413" d2l_2p0:id="171" d2l_2p0:resource_code="byui_produ-25569" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195413" identifierref="RES_CONTENT_195413" d2l_2p0:id="171" d2l_2p0:resource_code="byui_produ-25569" description="" completion_type="1" date_due="2017-02-24T06:59:00" resource_type_key="">
                         <title>Photo Capture 6 Submission: Portraits</title>
                     </item>
                 </item>
@@ -518,12 +518,12 @@
                     <item identifier="195415" identifierref="RES_CONTENT_195415" d2l_2p0:id="173" d2l_2p0:resource_code="byui_produ-26264" description="" completion_type="1" resource_type_key="">
                         <title>L07 Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195416" identifierref="RES_CONTENT_195416" d2l_2p0:id="174" d2l_2p0:resource_code="byui_produ-24858" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195416" identifierref="RES_CONTENT_195416" d2l_2p0:id="174" d2l_2p0:resource_code="byui_produ-24858" description="" completion_type="1" date_start="2017-02-04T07:01:00" date_end="2017-02-20T15:00:00" resource_type_key="">
                         <title>Lesson 07 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195417" identifierref="RES_CONTENT_195417" d2l_2p0:id="175" d2l_2p0:resource_code="byui_produ-59935" description="&lt;h2&gt;Composition and Framing&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195417" identifierref="RES_CONTENT_195417" d2l_2p0:id="175" d2l_2p0:resource_code="byui_produ-59935" description="&lt;h2&gt;Composition and Framing&lt;/h2&gt;" completion_type="2" date_start="2017-02-11T07:01:00">
                 <title>Lesson 08</title>
                 <item identifier="195418" identifierref="RES_CONTENT_195418" d2l_2p0:id="176" d2l_2p0:resource_code="byui_produ-59936" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -551,19 +551,19 @@
                     <item identifier="195427" identifierref="RES_CONTENT_195427" d2l_2p0:id="184" d2l_2p0:resource_code="byui_produ-26268" description="" completion_type="1" resource_type_key="">
                         <title>L08: Photo Capture 7: Small Random Location</title>
                     </item>
-                    <item identifier="195428" identifierref="RES_CONTENT_195428" d2l_2p0:id="185" d2l_2p0:resource_code="byui_produ-26269" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195428" identifierref="RES_CONTENT_195428" d2l_2p0:id="185" d2l_2p0:resource_code="byui_produ-26269" description="" completion_type="1" date_due="2017-02-28T06:59:00" resource_type_key="">
                         <title>L08: Peer Photo Review 7: Small Random Location - Instructions</title>
                     </item>
-                    <item identifier="195429" identifierref="RES_CONTENT_195429" d2l_2p0:id="186" d2l_2p0:resource_code="byui_produ-25078" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195429" identifierref="RES_CONTENT_195429" d2l_2p0:id="186" d2l_2p0:resource_code="byui_produ-25078" description="" completion_type="1" date_due="2017-03-02T06:59:00" resource_type_key="">
                         <title>Peer Photo Review 7: Small Random Location</title>
                     </item>
-                    <item identifier="229210" identifierref="RES_CONTENT_229210" d2l_2p0:id="187" d2l_2p0:resource_code="byui_produ-194407" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229210" identifierref="RES_CONTENT_229210" d2l_2p0:id="187" d2l_2p0:resource_code="byui_produ-194407" description="" completion_type="2" date_due="2017-03-02T06:59:00" resource_type_key="">
                         <title>L08: Peer Photo Review 7: Small Random Location - Group 2</title>
                     </item>
                     <item identifier="195430" identifierref="RES_CONTENT_195430" d2l_2p0:id="188" d2l_2p0:resource_code="byui_produ-26271" description="" completion_type="1" resource_type_key="">
                         <title>L08: Photo Capture 7 Submission: Small Random Location - Instructions</title>
                     </item>
-                    <item identifier="195431" identifierref="RES_CONTENT_195431" d2l_2p0:id="189" d2l_2p0:resource_code="byui_produ-25570" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195431" identifierref="RES_CONTENT_195431" d2l_2p0:id="189" d2l_2p0:resource_code="byui_produ-25570" description="" completion_type="1" date_due="2017-03-03T06:59:00" resource_type_key="">
                         <title>Photo Capture 7 Submission: Small Random Location</title>
                     </item>
                 </item>
@@ -572,12 +572,12 @@
                     <item identifier="195433" identifierref="RES_CONTENT_195433" d2l_2p0:id="191" d2l_2p0:resource_code="byui_produ-26270" description="" completion_type="1" resource_type_key="">
                         <title>L08: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195434" identifierref="RES_CONTENT_195434" d2l_2p0:id="192" d2l_2p0:resource_code="byui_produ-24956" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195434" identifierref="RES_CONTENT_195434" d2l_2p0:id="192" d2l_2p0:resource_code="byui_produ-24956" description="" completion_type="1" date_start="2017-02-11T07:01:00" date_end="2017-02-27T15:00:00" resource_type_key="">
                         <title>Lesson 08 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195435" identifierref="RES_CONTENT_195435" d2l_2p0:id="193" d2l_2p0:resource_code="byui_produ-59943" description="&lt;h2&gt;Color&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195435" identifierref="RES_CONTENT_195435" d2l_2p0:id="193" d2l_2p0:resource_code="byui_produ-59943" description="&lt;h2&gt;Color&lt;/h2&gt;" completion_type="2" date_start="2017-02-18T07:01:00">
                 <title>Lesson 09</title>
                 <item identifier="195436" identifierref="RES_CONTENT_195436" d2l_2p0:id="194" d2l_2p0:resource_code="byui_produ-59944" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -602,25 +602,25 @@
                 </item>
                 <item identifier="195443" identifierref="RES_CONTENT_195443" d2l_2p0:id="201" d2l_2p0:resource_code="byui_produ-59949" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195444" identifierref="RES_CONTENT_195444" d2l_2p0:id="202" d2l_2p0:resource_code="byui_produ-26274" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195444" identifierref="RES_CONTENT_195444" d2l_2p0:id="202" d2l_2p0:resource_code="byui_produ-26274" description="" completion_type="1" date_due="2017-03-06T15:00:00" resource_type_key="">
                         <title>L09: Learn from the Pros: Color Photographers</title>
                     </item>
                     <item identifier="195445" identifierref="RES_CONTENT_195445" d2l_2p0:id="203" d2l_2p0:resource_code="byui_produ-26275" description="" completion_type="1" resource_type_key="">
                         <title>L09: Photo Capture 8: The World In Color</title>
                     </item>
-                    <item identifier="195446" identifierref="RES_CONTENT_195446" d2l_2p0:id="204" d2l_2p0:resource_code="byui_produ-26276" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195446" identifierref="RES_CONTENT_195446" d2l_2p0:id="204" d2l_2p0:resource_code="byui_produ-26276" description="" completion_type="1" date_due="2017-03-07T06:59:00" resource_type_key="">
                         <title>L09: Peer Photo Review 8: The World in Color</title>
                     </item>
-                    <item identifier="195447" identifierref="RES_CONTENT_195447" d2l_2p0:id="205" d2l_2p0:resource_code="byui_produ-26278" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195447" identifierref="RES_CONTENT_195447" d2l_2p0:id="205" d2l_2p0:resource_code="byui_produ-26278" description="" completion_type="1" date_due="2017-03-09T06:59:00" resource_type_key="">
                         <title>Peer Photo Review 8: The World in Color</title>
                     </item>
-                    <item identifier="229212" identifierref="RES_CONTENT_229212" d2l_2p0:id="206" d2l_2p0:resource_code="byui_produ-194412" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229212" identifierref="RES_CONTENT_229212" d2l_2p0:id="206" d2l_2p0:resource_code="byui_produ-194412" description="" completion_type="2" date_due="2017-03-09T06:59:00" resource_type_key="">
                         <title>L09: Peer Photo Review 8: The World in Color - Group 2</title>
                     </item>
                     <item identifier="195448" identifierref="RES_CONTENT_195448" d2l_2p0:id="207" d2l_2p0:resource_code="byui_produ-26279" description="" completion_type="1" resource_type_key="">
                         <title>L09: Photo Capture 8: Submission: The World in Color - Instructions</title>
                     </item>
-                    <item identifier="195449" identifierref="RES_CONTENT_195449" d2l_2p0:id="208" d2l_2p0:resource_code="byui_produ-25582" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195449" identifierref="RES_CONTENT_195449" d2l_2p0:id="208" d2l_2p0:resource_code="byui_produ-25582" description="" completion_type="1" date_due="2017-03-10T06:59:00" resource_type_key="">
                         <title>Photo Capture 8: Submission: The World in Color</title>
                     </item>
                 </item>
@@ -629,12 +629,12 @@
                     <item identifier="195451" identifierref="RES_CONTENT_195451" d2l_2p0:id="210" d2l_2p0:resource_code="byui_produ-26277" description="" completion_type="1" resource_type_key="">
                         <title>L09 Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195452" identifierref="RES_CONTENT_195452" d2l_2p0:id="211" d2l_2p0:resource_code="byui_produ-24958" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195452" identifierref="RES_CONTENT_195452" d2l_2p0:id="211" d2l_2p0:resource_code="byui_produ-24958" description="" completion_type="1" date_start="2017-02-18T07:01:00" date_end="2017-03-06T15:00:00" resource_type_key="">
                         <title>Lesson 09 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195453" identifierref="RES_CONTENT_195453" d2l_2p0:id="212" d2l_2p0:resource_code="byui_produ-59951" description="&lt;h2&gt;Narrative Photography&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195453" identifierref="RES_CONTENT_195453" d2l_2p0:id="212" d2l_2p0:resource_code="byui_produ-59951" description="&lt;h2&gt;Narrative Photography&lt;/h2&gt;" completion_type="2" date_start="2017-02-25T07:01:00">
                 <title>Lesson 10</title>
                 <item identifier="195454" identifierref="RES_CONTENT_195454" d2l_2p0:id="213" d2l_2p0:resource_code="byui_produ-59952" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -656,25 +656,25 @@
                 </item>
                 <item identifier="195461" identifierref="RES_CONTENT_195461" d2l_2p0:id="219" d2l_2p0:resource_code="byui_produ-59957" description="" completion_type="2">
                     <title>Do</title>
-                    <item identifier="195462" identifierref="RES_CONTENT_195462" d2l_2p0:id="220" d2l_2p0:resource_code="byui_produ-26282" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195462" identifierref="RES_CONTENT_195462" d2l_2p0:id="220" d2l_2p0:resource_code="byui_produ-26282" description="" completion_type="1" date_due="2017-03-13T14:00:00" resource_type_key="">
                         <title>L10: Learn from the Pros: Narrative Photographers</title>
                     </item>
                     <item identifier="195463" identifierref="RES_CONTENT_195463" d2l_2p0:id="221" d2l_2p0:resource_code="byui_produ-26283" description="" completion_type="1" resource_type_key="">
                         <title>L10: Photo Capture 9: Narrative Photographs</title>
                     </item>
-                    <item identifier="195464" identifierref="RES_CONTENT_195464" d2l_2p0:id="222" d2l_2p0:resource_code="byui_produ-26284" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195464" identifierref="RES_CONTENT_195464" d2l_2p0:id="222" d2l_2p0:resource_code="byui_produ-26284" description="" completion_type="1" date_due="2017-03-14T05:59:00" resource_type_key="">
                         <title>L10: Peer Photo Review 9: Narrative Photographs - Instructions</title>
                     </item>
-                    <item identifier="195465" identifierref="RES_CONTENT_195465" d2l_2p0:id="223" d2l_2p0:resource_code="byui_produ-25409" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195465" identifierref="RES_CONTENT_195465" d2l_2p0:id="223" d2l_2p0:resource_code="byui_produ-25409" description="" completion_type="1" date_due="2017-03-16T05:59:00" resource_type_key="">
                         <title>Peer Photo Review 9: Narrative Photographs</title>
                     </item>
-                    <item identifier="229214" identifierref="RES_CONTENT_229214" d2l_2p0:id="224" d2l_2p0:resource_code="byui_produ-194413" description="" completion_type="2" date_due="FALSE" resource_type_key="">
+                    <item identifier="229214" identifierref="RES_CONTENT_229214" d2l_2p0:id="224" d2l_2p0:resource_code="byui_produ-194413" description="" completion_type="2" date_due="2017-03-16T05:59:00" resource_type_key="">
                         <title>L10: Peer Photo Review 9: Narrative Photographs - Group 2</title>
                     </item>
                     <item identifier="195466" identifierref="RES_CONTENT_195466" d2l_2p0:id="225" d2l_2p0:resource_code="byui_produ-26286" description="" completion_type="1" resource_type_key="">
                         <title>L10: Photo Capture 9: Submission: Narrative Photographs - Instructions</title>
                     </item>
-                    <item identifier="195467" identifierref="RES_CONTENT_195467" d2l_2p0:id="226" d2l_2p0:resource_code="byui_produ-25583" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195467" identifierref="RES_CONTENT_195467" d2l_2p0:id="226" d2l_2p0:resource_code="byui_produ-25583" description="" completion_type="1" date_due="2017-03-17T05:59:00" resource_type_key="">
                         <title>Photo Capture 9: Submission: Narrative Photographs</title>
                     </item>
                 </item>
@@ -683,12 +683,12 @@
                     <item identifier="195469" identifierref="RES_CONTENT_195469" d2l_2p0:id="228" d2l_2p0:resource_code="byui_produ-26285" description="" completion_type="1" resource_type_key="">
                         <title>L10: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195470" identifierref="RES_CONTENT_195470" d2l_2p0:id="229" d2l_2p0:resource_code="byui_produ-24965" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195470" identifierref="RES_CONTENT_195470" d2l_2p0:id="229" d2l_2p0:resource_code="byui_produ-24965" description="" completion_type="1" date_start="2017-02-25T07:01:00" date_end="2017-03-13T14:00:00" resource_type_key="">
                         <title>Lesson 10 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195471" identifierref="RES_CONTENT_195471" d2l_2p0:id="230" d2l_2p0:resource_code="byui_produ-59959" description="&lt;h2&gt;Series and Final Portfolio&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195471" identifierref="RES_CONTENT_195471" d2l_2p0:id="230" d2l_2p0:resource_code="byui_produ-59959" description="&lt;h2&gt;Series and Final Portfolio&lt;/h2&gt;" completion_type="2" date_start="2017-03-04T07:01:00">
                 <title>Lesson 11</title>
                 <item identifier="195472" identifierref="RES_CONTENT_195472" d2l_2p0:id="231" d2l_2p0:resource_code="byui_produ-59960" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -713,10 +713,10 @@
                     <item identifier="195479" identifierref="RES_CONTENT_195479" d2l_2p0:id="238" d2l_2p0:resource_code="byui_produ-26290" description="" completion_type="1" resource_type_key="">
                         <title>L11: Discussion: Selecting a Subject - Instructions</title>
                     </item>
-                    <item identifier="195480" identifierref="RES_CONTENT_195480" d2l_2p0:id="239" d2l_2p0:resource_code="byui_produ-26361" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195480" identifierref="RES_CONTENT_195480" d2l_2p0:id="239" d2l_2p0:resource_code="byui_produ-26361" description="" completion_type="1" date_due="2017-03-13T14:00:00" resource_type_key="">
                         <title>Discussion: Selecting a Subject</title>
                     </item>
-                    <item identifier="195481" identifierref="RES_CONTENT_195481" d2l_2p0:id="240" d2l_2p0:resource_code="byui_produ-26291" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195481" identifierref="RES_CONTENT_195481" d2l_2p0:id="240" d2l_2p0:resource_code="byui_produ-26291" description="" completion_type="1" date_due="2017-03-13T14:00:00" resource_type_key="">
                         <title>L11: Learn From the Pros: Body of Work (Series/Portfolio)</title>
                     </item>
                     <item identifier="195482" identifierref="RES_CONTENT_195482" d2l_2p0:id="241" d2l_2p0:resource_code="byui_produ-26287" description="" completion_type="1" resource_type_key="">
@@ -725,7 +725,7 @@
                     <item identifier="195483" identifierref="RES_CONTENT_195483" d2l_2p0:id="242" d2l_2p0:resource_code="byui_produ-26292" description="" completion_type="1" resource_type_key="">
                         <title>L11: Final Portfolio: Propose a Topic for a Series - Instructions</title>
                     </item>
-                    <item identifier="195484" identifierref="RES_CONTENT_195484" d2l_2p0:id="243" d2l_2p0:resource_code="byui_produ-25585" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195484" identifierref="RES_CONTENT_195484" d2l_2p0:id="243" d2l_2p0:resource_code="byui_produ-25585" description="" completion_type="1" date_due="2017-03-13T14:00:00" resource_type_key="">
                         <title>Final Portfolio: Propose a Topic for a Series</title>
                     </item>
                 </item>
@@ -734,12 +734,12 @@
                     <item identifier="195486" identifierref="RES_CONTENT_195486" d2l_2p0:id="245" d2l_2p0:resource_code="byui_produ-26293" description="" completion_type="1" resource_type_key="">
                         <title>L11: Self-Assessment - Instructions</title>
                     </item>
-                    <item identifier="195487" identifierref="RES_CONTENT_195487" d2l_2p0:id="246" d2l_2p0:resource_code="byui_produ-24974" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195487" identifierref="RES_CONTENT_195487" d2l_2p0:id="246" d2l_2p0:resource_code="byui_produ-24974" description="" completion_type="1" date_start="2017-03-04T07:01:00" date_end="2017-03-20T14:00:00" resource_type_key="">
                         <title>Lesson 11 Self-Assessment</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195488" identifierref="RES_CONTENT_195488" d2l_2p0:id="247" d2l_2p0:resource_code="byui_produ-59966" description="&lt;h2&gt;History of Photography&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195488" identifierref="RES_CONTENT_195488" d2l_2p0:id="247" d2l_2p0:resource_code="byui_produ-59966" description="&lt;h2&gt;History of Photography&lt;/h2&gt;" completion_type="2" date_start="2017-03-04T07:01:00">
                 <title>Lesson 12</title>
                 <item identifier="195489" identifierref="RES_CONTENT_195489" d2l_2p0:id="248" d2l_2p0:resource_code="byui_produ-59967" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -773,18 +773,18 @@
                     <item identifier="195499" identifierref="RES_CONTENT_195499" d2l_2p0:id="258" d2l_2p0:resource_code="byui_produ-26297" description="" completion_type="1" resource_type_key="">
                         <title>L12: Self-Assessment 01 - Instructions</title>
                     </item>
-                    <item identifier="195500" identifierref="RES_CONTENT_195500" d2l_2p0:id="259" d2l_2p0:resource_code="byui_produ-24978" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195500" identifierref="RES_CONTENT_195500" d2l_2p0:id="259" d2l_2p0:resource_code="byui_produ-24978" description="" completion_type="1" date_start="2017-03-04T07:01:00" date_end="2017-03-28T05:59:00" resource_type_key="">
                         <title>Lesson 12 Self-Assessment 01</title>
                     </item>
                     <item identifier="195501" identifierref="RES_CONTENT_195501" d2l_2p0:id="260" d2l_2p0:resource_code="byui_produ-26298" description="" completion_type="1" resource_type_key="">
                         <title>L12: Self-Assessment 02 - Instructions</title>
                     </item>
-                    <item identifier="195502" identifierref="RES_CONTENT_195502" d2l_2p0:id="261" d2l_2p0:resource_code="byui_produ-24981" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195502" identifierref="RES_CONTENT_195502" d2l_2p0:id="261" d2l_2p0:resource_code="byui_produ-24981" description="" completion_type="1" date_start="2017-03-04T07:01:00" date_end="2017-03-27T14:00:00" resource_type_key="">
                         <title>Lesson 12 Self-Assessment 02</title>
                     </item>
                 </item>
             </item>
-            <item identifier="195503" identifierref="RES_CONTENT_195503" d2l_2p0:id="262" d2l_2p0:resource_code="byui_produ-59974" description="&lt;h2&gt;Resources and Photography Organizations&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195503" identifierref="RES_CONTENT_195503" d2l_2p0:id="262" d2l_2p0:resource_code="byui_produ-59974" description="&lt;h2&gt;Resources and Photography Organizations&lt;/h2&gt;" completion_type="2" date_start="2017-03-04T07:01:00">
                 <title>Lesson 13</title>
                 <item identifier="195504" identifierref="RES_CONTENT_195504" d2l_2p0:id="263" d2l_2p0:resource_code="byui_produ-59975" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -806,24 +806,24 @@
                     <item identifier="195510" identifierref="RES_CONTENT_195510" d2l_2p0:id="269" d2l_2p0:resource_code="byui_produ-26300" description="" completion_type="1" resource_type_key="">
                         <title>L13: Research/Identify Photographic Resources - Instructions</title>
                     </item>
-                    <item identifier="195511" identifierref="RES_CONTENT_195511" d2l_2p0:id="270" d2l_2p0:resource_code="byui_produ-25593" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195511" identifierref="RES_CONTENT_195511" d2l_2p0:id="270" d2l_2p0:resource_code="byui_produ-25593" description="" completion_type="1" date_due="2017-03-31T05:59:00" resource_type_key="">
                         <title>Research/Identify Photographic Resources</title>
                     </item>
-                    <item identifier="195512" identifierref="RES_CONTENT_195512" d2l_2p0:id="271" d2l_2p0:resource_code="byui_produ-26301" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195512" identifierref="RES_CONTENT_195512" d2l_2p0:id="271" d2l_2p0:resource_code="byui_produ-26301" description="" completion_type="1" date_due="2017-03-31T05:59:00" resource_type_key="">
                         <title>L13: Final Portfolio Continued: Editing and Assembly</title>
                     </item>
-                    <item identifier="195513" identifierref="RES_CONTENT_195513" d2l_2p0:id="272" d2l_2p0:resource_code="byui_produ-26302" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195513" identifierref="RES_CONTENT_195513" d2l_2p0:id="272" d2l_2p0:resource_code="byui_produ-26302" description="" completion_type="1" date_due="2017-03-31T05:59:00" resource_type_key="">
                         <title>L13: Final Portfolio Progress Review - Instructions</title>
                     </item>
-                    <item identifier="195514" identifierref="RES_CONTENT_195514" d2l_2p0:id="273" d2l_2p0:resource_code="byui_produ-25417" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195514" identifierref="RES_CONTENT_195514" d2l_2p0:id="273" d2l_2p0:resource_code="byui_produ-25417" description="" completion_type="1" date_due="2017-04-05T05:59:00" resource_type_key="">
                         <title>Final Portfolio Progress Review</title>
                     </item>
                 </item>
-                <item identifier="195515" identifierref="RES_CONTENT_195515" d2l_2p0:id="274" d2l_2p0:resource_code="byui_produ-59980" description="" completion_type="1" date_start="FALSE" date_due="FALSE" resource_type_key="">
+                <item identifier="195515" identifierref="RES_CONTENT_195515" d2l_2p0:id="274" d2l_2p0:resource_code="byui_produ-59980" description="" completion_type="1" date_start="2017-03-25T06:00:00" date_due="2017-04-08T05:59:00" resource_type_key="">
                     <title>Course Evaluation</title>
                 </item>
             </item>
-            <item identifier="195516" identifierref="RES_CONTENT_195516" d2l_2p0:id="275" d2l_2p0:resource_code="byui_produ-59981" description="&lt;h2&gt;Portfolio Submission&lt;/h2&gt;" completion_type="2" date_start="FALSE">
+            <item identifier="195516" identifierref="RES_CONTENT_195516" d2l_2p0:id="275" d2l_2p0:resource_code="byui_produ-59981" description="&lt;h2&gt;Portfolio Submission&lt;/h2&gt;" completion_type="2" date_start="2017-03-04T07:01:00">
                 <title>Lesson 14</title>
                 <item identifier="195517" identifierref="RES_CONTENT_195517" d2l_2p0:id="276" d2l_2p0:resource_code="byui_produ-59982" description="" completion_type="1" resource_type_key="">
                     <title>Questions and Conversations</title>
@@ -839,7 +839,7 @@
                     <item identifier="195521" identifierref="RES_CONTENT_195521" d2l_2p0:id="280" d2l_2p0:resource_code="byui_produ-26303" description="" completion_type="1" resource_type_key="">
                         <title>L14: Final Portfolio Submission - Instructions</title>
                     </item>
-                    <item identifier="195522" identifierref="RES_CONTENT_195522" d2l_2p0:id="281" d2l_2p0:resource_code="byui_produ-25598" description="" completion_type="1" date_due="FALSE" resource_type_key="">
+                    <item identifier="195522" identifierref="RES_CONTENT_195522" d2l_2p0:id="281" d2l_2p0:resource_code="byui_produ-25598" description="" completion_type="1" date_due="2017-04-08T05:59:00" resource_type_key="">
                         <title>Final Portfolio Submission</title>
                     </item>
                 </item>
@@ -848,14 +848,14 @@
                     <item identifier="195524" identifierref="RES_CONTENT_195524" d2l_2p0:id="283" d2l_2p0:resource_code="byui_produ-26304" description="" completion_type="1" resource_type_key="">
                         <title>L14: Final Exam - Instructions</title>
                     </item>
-                    <item identifier="195525" identifierref="RES_CONTENT_195525" d2l_2p0:id="284" d2l_2p0:resource_code="byui_produ-24984" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                    <item identifier="195525" identifierref="RES_CONTENT_195525" d2l_2p0:id="284" d2l_2p0:resource_code="byui_produ-24984" description="" completion_type="1" date_start="2017-03-04T07:01:00" date_end="2017-04-08T05:59:00" resource_type_key="">
                         <title>Final Exam</title>
                     </item>
                 </item>
                 <item identifier="195526" identifierref="RES_CONTENT_195526" d2l_2p0:id="285" d2l_2p0:resource_code="byui_produ-59987" description="" completion_type="1" resource_type_key="">
                     <title>Course Conclusion Survey - Instructions</title>
                 </item>
-                <item identifier="195527" identifierref="RES_CONTENT_195527" d2l_2p0:id="286" d2l_2p0:resource_code="byui_produ-24988" description="" completion_type="1" date_start="FALSE" date_end="FALSE" resource_type_key="">
+                <item identifier="195527" identifierref="RES_CONTENT_195527" d2l_2p0:id="286" d2l_2p0:resource_code="byui_produ-24988" description="" completion_type="1" date_start="2017-03-05T06:00:00" date_end="2017-04-08T05:59:00" resource_type_key="">
                     <title>Lesson 14 Course Conclusion Survey</title>
                 </item>
             </item>

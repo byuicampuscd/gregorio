@@ -1,7 +1,12 @@
 (function () {
 
+    console.log(__dirname)
+
     var fs = require('fs'),
-        $ = require('jquery')
+        $ = require('jquery'),
+        path = require('path'),
+        appenderSection = require(path.join(__dirname, 'scripts', 'appender')),
+        writetoXML = require(path.join(__dirname, 'scripts', 'writetoXML'))
 
     $('#exportpackage').change(e => {
 
@@ -21,26 +26,33 @@
                     $xml = $(xmlData),
                     dates_end = $xml.find('item[date_end]'),
                     dates_start = $xml.find('item[date_start]'),
-                    dates_due = $xml.find('item[date_due]')
+                    dates_due = $xml.find('item[date_due]'),
+                    output = $('#output'),
+                    endContain = $('<div><h2>End Dates</h2></div>'),
+                    startContain = $('<div><h2>Start Dates</h2></div>'),
+                    dueContain = $('<div><h2>Due Dates</h2></div>')
 
                 $.each(dates_end, (index, value) => {
-                    $(value).attr('date_end', 'FALSE')
+                    let currDate = $(value).attr('date_end')
+                    appenderSection(currDate, endContain)
                 })
 
                 $.each(dates_start, (index, value) => {
-                    $(value).attr('date_start', 'FALSE')
+                    let currDate = $(value).attr('date_start')
+                    appenderSection(currDate, startContain)
                 })
 
                 $.each(dates_due, (index, value) => {
-                    $(value).attr('date_due', 'FALSE')
+                    let currDate = $(value).attr('date_due')
+                    appenderSection(currDate, dueContain)
                 })
 
-                var newXMLData = $xml[0].firstChild.outerHTML,
-                    newXMLwType = xmltype + newXMLData
+                output
+                    .append(startContain)
+                    .append(dueContain)
+                    .append(endContain)
 
-                fs.writeFile('examplerewrite.xml', newXMLwType, (err) => {
-                    console.log("written!")
-                })
+//                writetoXML($xml)
 
             })
 
