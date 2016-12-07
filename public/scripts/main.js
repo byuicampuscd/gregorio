@@ -3,7 +3,7 @@
     var fs = require('fs'),
         $ = require('jquery')
 
-    wand("#exportpackage").tag.onchange = e => {
+    $("#exportpackage").change( e => {
 
         var ele = e.target || e.srcElement,
             files = ele.files,
@@ -15,14 +15,25 @@
             fs.readFile(filepath, 'utf8', (err, data) => {
                 if (err) throw err
 
-                var xmlData = $.parseXML(data),
-                    parseXML = xml2json(xmlData),
-                    removed = parseXML.replace("undefined", ""),
-                    jsondata = JSON.parse(removed),
-                    jsonString = JSON.stringify(jsondata),
-                    backtoXML = json2xml(jsonString)
+                var removerXML = data.replace('<?xml version="1.0" encoding="UTF-8"?>', ''),
+                    xmltype = data.split('\n')[0],
+                    xmlData = $.parseXML(removerXML),
+                    $xml = $(xmlData),
+                    date_end = $xml.find('item[date_end]'),
+                    date_start = $xml.find('item[date_start]'),
+                    date_due = $xml.find('item[date_due]')
 
-                console.log(jsonString)
+                $.each(date_end, (index, value) => {
+                    console.log($(value).attr('date_end'))
+                })
+
+                $.each(date_start, (index, value) => {
+                    console.log($(value).attr('date_start'))
+                })
+
+                $.each(date_due, (index, value) => {
+                    console.log($(value).attr('date_due'))
+                })
 
             })
 
@@ -35,6 +46,6 @@
         }
 
         e.target.parentElement.appendChild(fileText)
-    }
+    })
 
 }())
