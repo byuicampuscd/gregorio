@@ -1,12 +1,11 @@
 (function () {
 
-    console.log(__dirname)
-
     var fs = require('fs'),
         $ = require('jquery'),
         path = require('path'),
         appenderSection = require(path.join(__dirname, 'scripts', 'appender')),
-        writetoXML = require(path.join(__dirname, 'scripts', 'writetoXML'))
+        writetoXML = require(path.join(__dirname, 'scripts', 'writetoXML')),
+        allDatesAdjust = require(path.join(__dirname, 'scripts', 'allDatesAdjust'))
 
     $('#exportpackage').change(e => {
 
@@ -28,6 +27,13 @@
                     dates_start = $xml.find('item[date_start]'),
                     dates_due = $xml.find('item[date_due]'),
                     output = $('#output'),
+                    outputheader = $('<div></div>'),
+                    headerlabel = $(`
+                                <label>
+                                    Adjust all dates by
+                                    <input type="number" value="2">
+                                </label>`),
+                    submit = $('<input type="button" id="allDatesAdjust" value="Adjust">'),
                     endContain = $('<div><h2>End Dates</h2></div>'),
                     startContain = $('<div><h2>Start Dates</h2></div>'),
                     dueContain = $('<div><h2>Due Dates</h2></div>')
@@ -47,7 +53,13 @@
                     appenderSection(currDate, dueContain)
                 })
 
+                submit.click(allDatesAdjust)
+
+                outputheader.append(headerlabel)
+                outputheader.append(submit)
+
                 output
+                    .append(outputheader)
                     .append(startContain)
                     .append(dueContain)
                     .append(endContain)
