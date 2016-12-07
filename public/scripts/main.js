@@ -3,7 +3,7 @@
     var fs = require('fs'),
         $ = require('jquery')
 
-    $("#exportpackage").change( e => {
+    $('#exportpackage').change(e => {
 
         var ele = e.target || e.srcElement,
             files = ele.files,
@@ -15,24 +15,31 @@
             fs.readFile(filepath, 'utf8', (err, data) => {
                 if (err) throw err
 
-                var removerXML = data.replace('<?xml version="1.0" encoding="UTF-8"?>', ''),
+                var removeXMLType = data.replace('<?xml version="1.0" encoding="UTF-8"?>', ''),
                     xmltype = data.split('\n')[0],
-                    xmlData = $.parseXML(removerXML),
+                    xmlData = $.parseXML(removeXMLType),
                     $xml = $(xmlData),
-                    date_end = $xml.find('item[date_end]'),
-                    date_start = $xml.find('item[date_start]'),
-                    date_due = $xml.find('item[date_due]')
+                    dates_end = $xml.find('item[date_end]'),
+                    dates_start = $xml.find('item[date_start]'),
+                    dates_due = $xml.find('item[date_due]')
 
-                $.each(date_end, (index, value) => {
-                    console.log($(value).attr('date_end'))
+                $.each(dates_end, (index, value) => {
+                    $(value).attr('date_end', 'FALSE')
                 })
 
-                $.each(date_start, (index, value) => {
-                    console.log($(value).attr('date_start'))
+                $.each(dates_start, (index, value) => {
+                    $(value).attr('date_start', 'FALSE')
                 })
 
-                $.each(date_due, (index, value) => {
-                    console.log($(value).attr('date_due'))
+                $.each(dates_due, (index, value) => {
+                    $(value).attr('date_due', 'FALSE')
+                })
+
+                var newXMLData = $xml[0].firstChild.outerHTML,
+                    newXMLwType = xmltype + newXMLData
+
+                fs.writeFile('examplerewrite.xml', newXMLwType, (err) => {
+                    console.log("written!")
                 })
 
             })
@@ -40,9 +47,9 @@
         }
 
         if (files.length === 1) {
-            fileText = document.createTextNode(" - File Attached")
+            fileText = document.createTextNode(' - File Attached')
         } else {
-            fileText = document.createTextNode(" - Files Attached")
+            fileText = document.createTextNode(' - Files Attached')
         }
 
         e.target.parentElement.appendChild(fileText)
