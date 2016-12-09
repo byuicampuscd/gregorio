@@ -1,13 +1,14 @@
 var $ = require('jquery')
 
-function appenderSection(a, b) {
-    var readable = new Date(a),
-        appender = $(`<div>
+function appenderSection(a, b, c) {
+    var readabledate = new Date(a),
+        appender = $(`<div class="assignmentLabel">
                         <label>
-                            ${readable}
+                            <p>Assignment: ${c}</p>
+                            <p>Date: ${readabledate}</p>
                             <input type="date">
                         </label>
-                    </div>`)
+                      </div>`)
     b.append(appender)
 }
 

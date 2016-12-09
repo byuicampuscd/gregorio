@@ -1,5 +1,4 @@
 @import './partials/_reset.scss';
-
 main {
     margin-top: 20px;
     margin-left: 20px;
@@ -21,7 +20,7 @@ h2 {
     background-color: #333333;
     color: white;
     padding: 5px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     font-size: 20px;
     &:hover {
         cursor: pointer;
@@ -29,4 +28,8 @@ h2 {
     input {
         display: none;
     }
+}
+
+.assignmentLabel {
+    margin-bottom: 20px;
 }

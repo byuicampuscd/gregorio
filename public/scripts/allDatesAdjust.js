@@ -1,5 +1,6 @@
 function allDatesAdjust(e) {
-    console.log(e)
+    var element = e.target || e.srcElement
+    console.log(element)
 }
 
 module.exports = allDatesAdjust

@@ -122,21 +122,20 @@ gulp.task('export', ['production'], function () {
 })
 
 /*
-Default task. Run through all gulp plugins for development.
-Sourcemaps have not been included.
-*/
-gulp.task('default', ['clean', 'styles', 'scripts'], function () {
-    console.log("default task.");
-});
-
-/*
 Run a server and a livereload for development.
 Livereload has a script tag in index.html.
 */
-gulp.task('watch', ['default'], function () {
+gulp.task('watch', ['clean', 'styles', 'scripts'], function () {
     console.log("watch task.");
     require('./server.js');
     livereload.listen();
     gulp.watch(SCRIPTS_PATH, ['scripts']);
     gulp.watch(SCSS_PATH, ['styles']);
 })
+
+/*
+
+*/
+gulp.task('default', ['watch'], function () {
+    console.log("default task.");
+});

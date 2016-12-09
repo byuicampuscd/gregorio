@@ -39,18 +39,27 @@
                     dueContain = $('<div><h2>Due Dates</h2></div>')
 
                 $.each(dates_end, (index, value) => {
-                    let currDate = $(value).attr('date_end')
-                    appenderSection(currDate, endContain)
+                    let element = $(value),
+                        currDate = element.attr('date_end'),
+                        title = element[0].firstElementChild.textContent
+
+                    appenderSection(currDate, endContain, title)
                 })
 
                 $.each(dates_start, (index, value) => {
-                    let currDate = $(value).attr('date_start')
-                    appenderSection(currDate, startContain)
+                    let element = $(value),
+                        currDate = element.attr('date_start'),
+                        title = element[0].firstElementChild.textContent
+
+                    appenderSection(currDate, startContain, title)
                 })
 
                 $.each(dates_due, (index, value) => {
-                    let currDate = $(value).attr('date_due')
-                    appenderSection(currDate, dueContain)
+                    let element = $(value),
+                        currDate = element.attr('date_due'),
+                        title = element[0].firstElementChild.textContent
+
+                    appenderSection(currDate, dueContain, title)
                 })
 
                 submit.click(allDatesAdjust)
